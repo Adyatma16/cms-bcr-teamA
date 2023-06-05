@@ -1,4 +1,4 @@
-Binar Car Rental Deployment Link: https://legendary-rabanadas-7de8d9.netlify.app/
+Binar Car Rental CMS Deployment Link: https://legendary-rabanadas-7de8d9.netlify.app/
 
 # Getting Started with Create React App
 
